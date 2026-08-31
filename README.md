@@ -6,7 +6,7 @@ An end-to-end Data Analytics project analyzing airline loyalty program members, 
 
 ## 📸 Dashboard Preview
 
-![Airlines Loyalty Insights Dashboard](put-your-screenshot-filename-here.png)
+![Airlines Loyalty Insights Dashboard](Dashboard.png)
 *(Note: Replace 'put-your-screenshot-filename-here.png' with your uploaded HD dashboard image name)*
 
 ---
